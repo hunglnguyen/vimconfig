@@ -1,1 +1,1 @@
-# VIM Basic Setup
+# VIM Config
